@@ -79,3 +79,4 @@ https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-
 # NOTE
 
 • star and fork this repo, and i'll update auto pay soon
+• original script https://github.com/agathasangkara/spotifytools
