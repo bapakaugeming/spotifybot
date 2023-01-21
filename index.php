@@ -8,16 +8,16 @@ echo "$Green
 	   \__ \ )___/ )(_)(   )(   _)(_  )__)  \  / 
 	   (___/(__)  (_____) (__) (____)(__)   (__) \n"."$White               Samsung Galaxy Free 3 Month offer\n\n\n";
 
-echo "\n$Yellow Penawaran Validasi Spotify Samsung Galaxy";
-echo "\n$White ▶ 1. Daftar Spotify Dan Dapatkan Browser Cookie";
-echo "\n ▶ 2. Daftar Spotify Dan Dapatkan Otorisasi Pembawa";
-echo "\n ▶ 3. Daftar Dan Klaim Penawaran Seri Samsung Galaxy 3 Bulan
-echo "\n ▶ 4. Daftar Dan Autopay Premium 3 Bulan";
+echo "\n$Yellow Spotify Validation Offer Samsung Galaxy";
+echo "\n$White ▶ 1. Signup Spotify And Get Cookie Browser";
+echo "\n ▶ 2. Signup Spotify And Get Bearer Authorization";
+echo "\n ▶ 3. Signup And Claim Offer Samsung Galaxy Series 3 Month";
+echo "\n ▶ 4. Signup And Autopay Premium 3 Month";
 echo "\n\n Choose : ";
 $choose = trim(fgets(STDIN));
 
 if($choose == "4"){
-	system("xdg-open https://rootsec.xyz");
+	system("xdg-open https://t.me/anonsecteam");
 	}
 
 $load = getConfig();
