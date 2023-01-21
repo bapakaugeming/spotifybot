@@ -3,20 +3,21 @@
 <details>
     <summary>How to Use<b></b></summary><br/>
 https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-bd03-59d03a1f04fa.mp4
-1. pkg install update
-2. pkg install php
-3. pkg install git
-4. git clone https://github.com/tahaluindo/spotifybot
-5. cd spotifybot
-6. php index.php
+
+-  pkg install update
+-  pkg install php
+-  pkg install git
+-  git clone https://github.com/tahaluindo/spotifybot
+-  cd spotifybot
+-  php index.php
 
 ![rootsec.xyz](https://user-images.githubusercontent.com/94370774/213856488-55aff434-9f9d-40a6-9bea-88f868888be8.jpg)
 
 # Offer
 
-1. Login using the account created by the tool
-2. Pay manual use our vcc
-3. link plan : https://www.spotify.com/id/redirect-in-app/android_premium_promotion/?offerSlug=samsung-global2022-pdp-3m-3m-trial-one-time-code
+-  Login using the account created by the tool
+- Pay manual use our vcc
+- link plan : https://www.spotify.com/id/redirect-in-app/android_premium_promotion/?offerSlug=samsung-global2022-pdp-3m-3m-trial-one-time-code
 </details>
 <details>
     <summary>Emmmm...<b></b></summary><br/>
