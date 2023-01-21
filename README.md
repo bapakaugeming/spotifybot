@@ -1,15 +1,16 @@
 ![Screenshot_2023-01-21-14-33-33-391_com termux](https://user-images.githubusercontent.com/94370774/213849149-bcd47844-3f80-4d3f-b24e-75049ae6fb84.jpg)
 ![Screenshot_2023-01-21-14-34-48-075_com android chrome](https://user-images.githubusercontent.com/94370774/213849147-b8282313-35a8-48a1-8975-53917cafb754.jpg)
-https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-bd03-59d03a1f04fa.mp4
 <details>
     <summary>How to Use<b></b></summary><br/>
-
+https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-bd03-59d03a1f04fa.mp4
 1. pkg install update
 2. pkg install php
 3. pkg install git
 4. git clone https://github.com/tahaluindo/spotifybot
 5. cd spotifybot
 6. php index.php
+
+![rootsec.xyz](https://user-images.githubusercontent.com/94370774/213856488-55aff434-9f9d-40a6-9bea-88f868888be8.jpg)
 
 # Offer
 
