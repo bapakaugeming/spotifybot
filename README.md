@@ -1,5 +1,3 @@
-![Screenshot_2023-01-21-14-33-33-391_com termux](https://user-images.githubusercontent.com/94370774/213849149-bcd47844-3f80-4d3f-b24e-75049ae6fb84.jpg)
-![Screenshot_2023-01-21-14-34-48-075_com android chrome](https://user-images.githubusercontent.com/94370774/213849147-b8282313-35a8-48a1-8975-53917cafb754.jpg)
 <details>
     <summary>How to Use<b></b></summary><br/>
 https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-bd03-59d03a1f04fa.mp4
@@ -11,6 +9,8 @@ https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-
 -  cd spotifybot
 -  php index.php
 
+https://github.com/tahaluindo/spotifybot/blob/main/demo/XRecorder_22012023_164934.mp4?raw=true
+
 ![rootsec.xyz](https://user-images.githubusercontent.com/94370774/213856488-55aff434-9f9d-40a6-9bea-88f868888be8.jpg)
 
 # Offer
@@ -19,6 +19,9 @@ https://user-images.githubusercontent.com/94370774/213849407-f80a08e3-063c-41eb-
 - Pay manual use our vcc
 - link plan : https://www.spotify.com/id/redirect-in-app/android_premium_promotion/?offerSlug=samsung-global2022-pdp-3m-3m-trial-one-time-code
 </details>
+
+![Screenshot_2023-01-21-14-33-33-391_com termux](https://user-images.githubusercontent.com/94370774/213849149-bcd47844-3f80-4d3f-b24e-75049ae6fb84.jpg)
+![Screenshot_2023-01-21-14-34-48-075_com android chrome](https://user-images.githubusercontent.com/94370774/213849147-b8282313-35a8-48a1-8975-53917cafb754.jpg)
 <details>
     <summary>Emmmm...<b></b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://telegra.ph/file/3f8b2987e6b010c467dd6.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
